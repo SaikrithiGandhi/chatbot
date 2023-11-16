@@ -60,7 +60,7 @@ def generate_ansert():
   answer = chain.run(input_documents = docs, question = prompt)
 
   print("Sending response ...")
-  return render_template('index.html', generated_image=answer)
+  return render_template('index.html', response=answer)
 
 
 if __name__ == '__main__':
