@@ -20,7 +20,7 @@ from langchain.llms import HuggingFacePipeline
 
 import torch
 
-def setup_vector_db(file_name)
+def setup_vector_db(file_name):
   # Document Loader
   loader = TextLoader(file_name)
   docs= loader.load()
