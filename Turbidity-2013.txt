@@ -1,0 +1,452 @@
+Progress Report
+
+
+Studies Assessing Factors that Influence the Spawning Migration Behavior and Reproductive Condition of Delta Smelt 
+(Hypomesus transpacificus) in the Sacramento-San Joaquin Delta
+
+
+
+
+
+
+Submitted to:
+
+
+Erwin Van Nieuwenhuyse 
+Science Division, Bay-Delta Office, U.S. Bureau of Reclamation
+801 I Street, Suite 140, Sacramento, CA 95814-2536
+UC Davis Agreement R12AC20079
+
+
+
+
+
+
+
+Authors:
+
+Swee Teh, Dolores V. Baxa, Alireza Javidmehr, Tomo Kurobe
+University of California–Davis, Davis CA 95616
+
+January 31, 2014
+
+Subtitle
+
+Investigating the Relationship of Health and Reproductive Condition in Delta Smelt (Hypomesus transpacificus) and Turbidity Levels in the Sacramento-San Joaquin Delta in 2010 and 2012
+
+Objective
+	Determine the general health and reproductive potential of the endangered estuarine delta smelt in relation to water turbidity changes in 2010 vs. 2012.  Fish health measurements as established in the current study include general fish condition, presence of pathogens/disease, histopathological changes, triglyceride (TAG), and reproductive condition.  TAG is stored energy critical for growth and maturation
+
+Background 
+This project was designed to address critical knowledge gaps in our understanding of the potential role of water transparency (i.e. turbidity) on the general health of delta smelt.  Delta smelt generally prefers to rear in low salinity habitats of the northern estuary (Moyle et al. 1992) and gradually migrate upstream toward spawning areas in September and October (Moyle 2002).  A recent study suggests that rapid upstream migration may be associated with pulses of turbid water draining into the estuary at the beginning of a winter rainstorm, referred to as “first flush” (Grimaldo et al. 2009).  In this study, we describe the general health and reproductive condition of delta smelt due to changing turbidity levels at the beginning of the first flush in 2010 and compared to cohort collected in 2011. 
+	During the past 20 years, decreased turbidity in the Delta has been associated with several factors such as changes in water management (Jassby et al. 2002), reduced suspended sediment (McKee et al. 2006), and invasion of non-native plants (Jassby et al. 2002, Nobriga et al. 2005) and bivalves (Carlton et al. 1990).  Turbidity levels affect many estuarine species including the delta smelt in terms of predation issues and successful feeding.  Feyrer et al. (2003, 2007) suggested that long term trends of decreasing Nephelometric Turbidity Units (NTU) may alter the feeding success of native fish and predation patterns for non-native fish.  For example, decreased turbidity and specific conductance may benefit striped bass populations but render negative impacts to the endemic delta smelt (Feyrer et al. 2007).  To date however, the consequences of decreasing turbidity on the general health and reproductive potential of delta smelt in the Sacramento San Joaquin Delta are unknown.  Our study was therefore focused on collecting delta smelt across sites in the Delta that were mainly affected by the first flush in 2010 and compared to cohort collected along the same sites in 2011.  The goal is to determine the potential effects of altered turbidity levels on the general health and reproductive potential of delta smelt cohorts collected from habitats affected by low flow (dry) and high flow (wet) years.
+
+Materials and Methods
+
+1.  Fish Sampling, Necropsy, and Water Quality
+The approach for this project is based on investigating the health of delta smelt following the first flush event in 2010.  To obtain a relevant comparison of fish cohorts, delta smelt that were examined in 2010 were matched, as close as possible, to fish in 2011 in terms of site and date of collection, water temperature and salinity excluding turbidity.  It is important to note however, that delta smelt is a migratory species and can move across distances in a tide cycle relative to the geographic location of the survey stations that may confound any direct comparison of health metrics and environmental−habitat measurements.  Water quality measurements were generously provided by the US Geological Survey and the Department of Fish and Wildlife in California.
+In 2010, delta smelt were collected along the Sacramento River near Decker Island and in the San Joaquin River near Jersey Point during, before, and after the first rain storm which increased the turbidity levels in the area.  Fish were sampled 6 days during the winter season in 2010 by Kodiak trawls primarily at the shoal-channel interface, and with beach seines along the adjacent shoreline (Figure 1).  Fish sampling was conducted by trawling in the Spring Kodiak Trawl Survey (SKT) and by beach seining in the lower Sacramento River and in the San Joaquin River near Jersey point. Collection of delta smelt in 2011 focused on sites 705, 706, and 707 as coordinated with the SKT survey for the Fall X2 Fish Health Study (Figure 2).  For this study, 2010 cohort refers to delta smelt collected between December 2010 and January 2011 while fish sampled from December 2011 to January 2012 belong to the 2011 cohort.
+At sampling sites, fish that were caught were individually wrapped with foil, assigned an ID number, and preserved in liquid nitrogen until dissection.  Delta smelt were processed in the Aquatic Health Program at the University of California, Davis according to protocols established for the Fall X2 Fish Health Study.  
+At necropsy in the laboratory, Delta smelt were removed from liquid nitrogen.  Fork lengths (FL) and body weights (BW) were measured while frozen to determine the condition factor (CF).  Samples were allowed to thaw briefly to allow the skin to appear natural, and pictures were taken with a ruler with ID tag for future image analysis.  Liver and gonads were weighed to determine the hepatosomatic (HSI) and gonadosomatic (GSI) indices, respectively and then fixed in 10% buffered formalin for histopathology. The kidney and spleen were removed and stored in culture media for pathogen analysis. The remaining carcass was frozen in liquid nitrogen and stored at -80oC. 
+
+2.  Fish Condition Indices 
+	Body condition (total body weight and fork length), liver and gonad weight, and gender were recorded as fish were dissected.  The maturity of female fish was additionally scored using histological examination of ovaries.  Condition factor (CF:K) was obtained using the formula: K = Fish body weight (gm) x 100 / (Fish fork length in cm)3.  Hepatosomatic index (HSI) and gonadosomatic (GSI) were calculated based on liver and gonad weight (gm) divided by body weight (gm) x 100.  
+
+
+3.  17β-Estradiol (E2) Assay Development and Assessment of Gonad Maturity
+17ß-estradiol (E2) is a hormone responsible for sex differentiation and maturation in female fish. E2 is mainly expressed in ovarian granulose cells, released into the bloodstream and reach its target liver tissue where hepatocytes express the egg yolk precursor (vitellogenin) and egg shell protein (choriogenin) (Nagahama 1994, Babin et al. 2007, Lubzens et al. 2010).  E2 regulates the proliferation of oocytes through early oogenesis (Miura et al. 2007).  The strong correlation between E2 concentration and maturity in fish serum provides a convenient method for assessment of maturity level and prediction of ovulation. Because of the time constraint during field sampling plus the difficulty of obtaining blood samples from delta smelt, we have developed the E2 analysis as a new method for predicting gonad maturity in delta smelt.  Liver homogenate from individual delta smelt was used for estimating E2 concentration by radioimmunoassay at the Clinical Endocrinology Laboratory at UC Davis.  Data were standardized based on protein concentration as determined by the Lowry method (Lowry et al. 1951).  
+A new method of scoring delta smelt maturity was also developed based on histological observation and criteria distinguishing specific stages of oocyte development.  Stages of oocyte development was examined from female delta smelt in 2010 (N=56) and 2011 (N=39).
+
+4.  Pathogens and Disease
+The kidney and spleen of each delta smelt sample was processed for bacterial and viral isolation according to standard procedures (American Fisheries Society, AFS−Fish Health Section, 2007). Briefly, for general isolation of bacteria, homogenized kidney and spleen tissues (ca. 20 μl) from each fish were inoculated onto enriched media (Blood Agar); Tryptone Yeast Extract Medium (TYES) was additionally used to enhance the isolation of fastidious organisms such as flexibacteria (Flexibacter, Cytophaga).  The plates were incubated at 15°C and examined for bacterial growth for 7–14 days.  Bacterial colonies were examined for phenotypic (morphology and biochemical reactions) characteristics (AFS – Fish Health Section, 2007).  The identity of dominant isolates was confirmed using molecular methods by sequencing the 16S ribosomal RNA gene commonly found in all bacteria.  The universal bacterial primers EUBA/EUBB were used for initial PCR to amplify the 16S rDNA regions from which the amplified products were submitted to Davis Sequencing to determine the gene sequences of representative dominant isolates. 
+For pathogen scoring, bacterial assemblages were scored from 0 – 4 according to the number of colonies present on the plates: 0 = absence of bacterial growth, 1 = minimal number of bacterial colonies (N = 1−10), 2 = moderate number of colonies (N=11−20), 3 = high number of colonies (>20–200), and 4 = too numerous to be counted.  The pathogen scores are recorded corresponding to each individual fish examined for the various health metrics.  Delta smelt were examined for presence of bacterial pathogens and severity of pathogen scores in 2010 (N=158) and 2011 (N=73) (Table 3).  
+	The presence of Mycobacterium DNA was determined from Delta smelt tissues (kidney + spleen) following genomic DNA extraction using the proprietary Mycobacterium tuberculosis complex (MTC) PCR assay developed at the UC Davis Real-time PCR Research and Diagnostic Core Facility.  The PCR assay detects DNA of closely related Mycobacterium species as causative agents of human and animal tuberculosis.  As the proprietary MTC PCR is qualitative, we have developed a quantitative PCR (qPCR) to estimate the abundance of Mycobacterium DNA present in the delta smelt tissues.  A standard curve was developed containing known concentrations of Mycobacterium DNA, which was used to estimate the abundance of Mycobacterium DNA in unknown delta smelt tissue samples.  Carriers of Mycobacterium (DNA) were determined from delta smelt in 2010 (N=60) and 2011 (N=11) (Table 2).  
+	The remaining homogenized tissues were used for viral isolation according to standard methods (AFS – Fish Health Section, 2007). Briefly, tissue homogenates were centrifuged, the supernatant diluted 1:1 with 2x antibiotic antimycotic solution, and incubated overnight at 10°C.  Duplicate wells of EPC (Epithelioma papulosum cyprinid carp), CHSE-214 (Chinook salmon embryo), BF2 (Bluegill fry), and threadfin shad gill (TFSG) cells were inoculated with 200 µl of each sample.  The TFSG cell line has been used for virus isolation from fish species in the San Francisco estuary in addition to the traditional cell lines stated above.  Cell cultures were incubated at 15°C for a minimum of 21 days and subcultured for 14 days.  Delta smelt were examined for presence of viral agents in 2010 (N=158) and 2011 (N=73).
+
+5.   Histopathology Biomarker
+Gill, liver, and gonads of individual delta smelt were assigned a random alpha-numeric identification code to perform a blind study.  Processed tissues were embedded in paraffin and sectioned at 3−5 microns thickness. Tissue sections were mounted on glass slides and stained with hematoxylin and eosin (H&E). Severity of lesions were scored semiquantitatively based on a scale of 0 to 3 (0 = not present, 1 = mild, 2 = moderate, and 3 = severe).   Delta smelt were examined for histopathological changes in 2010 (N=20) and 2011 (N=34).
+
+6. Enzymatic biomarker
+We used three enzymatic biomarkers to assess the health of delta smelt. Biomarker measurements reflect the bioavailability of contaminants, provide a mechanistic  approach to understand contaminant toxicity, and can be an early indicator of stress at the population and community level (McCarthy and Shugart, 1990).  Enzymatic biomarkers such as acetylcholinesterase, sodium (Na+)/ potassium (K+) ATPase, and the ethoxyresorufin-O-deethylase (EROD)  have previously been shown to be useful biomarkers for exposure to pesticides and other stressors (Dutta and Arends, 2003; Kakko et al., 2003; Binelli et al., 2006).  The first biomarker used in this study is Na+/K+-ATPase which helps to maintain ion-electrochemical gradients across the plasma membrane (Lingwood et al. 2005).  It is a sensitive biomarker for stress, migration and contamination. The other two biomarkers are specific biomarkers of stress and contaminants. AChE activity is a relevant means of investigating biological effects of complex mixture of many neurotoxic contaminants on aquatic environments (Lionetto et al.2005). Ethoxyresorufin-0-deethylase (EROD) activity in fish is a well-established biomarker for exposure to particular planar halogenated/polycyclic aromatic hydrocarbons (PHH/PAH) and structurally related compounds (Stegeman and Hahn 1994; Bucheli and Fent 1995. A single biomarker alone cannot be used to identify the effects of specific contaminants in the field samples in the presence of mixtures. Using multiple biomarkers will help us to identify the adverse effect of different contaminants that affect the health of delta smelt
+
+Na+/K+-ATPase activity in gill was assayed by the method described by Holliday (1985) and optimized as for delta smelt. The gill was dissected and stored in -800C until enzyme analysis. The enzyme activity was normalized to protein concentration, where protein concentration was determined using the Lowry method (Lowry et al. 1951) using the BCA protein assay kit (Bio Rad, Hillcrest, CA).
+
+AChE activity in brain tissue was assayed by the method described by Ellman et al. (1961) and optimized as for delta smelt. The brain was dissected and stored in -800C until enzyme analysis. The enzyme activity was normalized to protein concentration, where protein concentration was determined according to the Lowry method (Lowry et al., 1951).  
+
+The methods for determining EROD activity were adapted from Eggens and Galgani (1992) and Burke and Mayer (1974) that have been optimized for delta smelt. Liver was dissected and stored in -800C until enzyme analysis. Liver tissue was homogenized and S9 fraction was used for enzyme analysis. The enzyme activity was normalized to protein concentration according to the Lowry Method (Lowry et al., 1951).  
+
+6.  Statistical Analyses
+	This project was designed to create comparable data sets of delta smelt cohorts collected during the 2010 and 2011 turbidity studies.  For this purpose, we used a more comprehensive statistical approach instead of a standard analytical method to fully characterize the distribution and variability of two data sets. We gathered the data from a cluster of delta smelt collected during the 2011 FLaSH (Fall Law Salinity Habitat) Study to match with the 2010 cohorts collected from the study sites in the Sacramento River.  Fish were selected based on date, location, and water quality.  Statistical analyses were performed by the Aquatic Health Program data management team at UC Davis using Excel spreadsheets (2010 Microsoft Inc., USA) and JMP® (2012 SAS Institute Inc., USA).    	
+	Data analyses were also aimed at developing potential baseline information on the health status of delta smelt during migration that may be triggered by changing turbidity levels in the Sacramento San Joaquin Delta. For every recorded endpoint, the normality of the distribution was characterized between two groups of fish using Shapiro-Wilks tests (α = 0.05).  When the distributions of all groups for a given endpoint were found to conform to normality, an ANOVA with Student`s t procedure was used to evaluate all pairwise comparisons.  When one or more endpoints were found to deviate from normality in a given endpoint, pairwise Wilcoxon Tests were used to evaluate all pairwise comparisons between two cohorts.  Some distributions that deviated from normality were expressed using mean and standard deviation for information purposes in the report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.  Sampling sites for delta smelt in the 2010 turbidity study using Kodiak trawl and beach seine in the lower Sacramento River and in the San Joaquin River near Jersey point.  For this study, 2010 cohort refers to delta smelt collected between December 2010 and January 2011 while fish sampled from December 2011 to January 2012 belong to the 2011 cohort. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.  Sampling sites for delta smelt in the 2012 turbidity study using Kodiak trawl and beach seine in the lower Sacramento River and in the San Joaquin River near Jersey point.  For this study, 2010 cohort refers to delta smelt collected between December 2010 and January 2011 while fish sampled from December 2011 to January 2012 belong to the 2011 cohort.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results
+
+1. Water Quality
+Turbidity levels showed a wider range (20.2 – 32.8 NTU) from the collection sites of the 2010 cohort while the sites of the 2011 cohort showed more consistent turbidities (10.5 – 11.6 NTU) (Figure 3).  The mean turbidity in 2010 (29.61 NTU) was significantly higher than in 2011 (10.91 NTU, P<0.0001, Figure 9).  The mean water temperature was statistically higher in 2010 (10.08°C) compared to 2011 (9.12°C) (P<0.0001, Figure 10).  The mean salinity in 2010 (0.069 psu) was statistically lower than in 2011 (0.340 psu) (P<0.0001, Figure 11).
+
+2.  Delta Smelt Condition Indices
+The mean CF was significantly higher in 2010 (0.805 mg/mm3) than 2011 (0.738 mg/mm3) (P<0.0001, Figure 12).  Mean HSI was also higher in 2010 (1.027) vs. 2011 (0.732) (P=0.021, Figure 13).  Mean GSI was also in higher in 2010 (1.941) vs. 2011 (1.595) (P=0.0135, Figure 14).
+
+3. Histological Staging of Delta Smelt Ovary and Relationship with E2  
+We developed a new method for scoring delta smelt maturity based on histological criteria of oocyte development (Figure 4).  Fish were classified into five major categories of oocyte development (i.e. Stage I−V) plus a Post Spawner Stage. Three sub-classifications (Early, Middle, and Late) were observed in Stage III and IV depending on the synthesis and accumulation of cortical alveoli, lipid droplets, or vitellogenin (Figure 4).  Histological staging of oocyte maturity as shown in Figure 4 was based on delta smelt from the December 2010 cohort.  Comparison of oocyte maturity stages showed that the most frequent stage observed in the 2010 cohort was Stage IV (Early to Late) (64%) while Stage III (Early to Late) was most frequent (56%) in the 2011 cohort (Figure 5).   However, statistical comparison of stage categories of female delta smelt in December 2010 (N=56) and December 2011 (N=39) cohorts showed that oocytes were relatively in Stage III Late (P=0.140, Figure 20). 
+Figure 6 shows a positive relationship between E2 levels in the liver and ovarian maturity as examined in delta smelt from the December 2010 cohort.  Delta smelt examined from December 21, 2010 and January 1, 2011 showed a significant correlation among gonadosomatic indices (GSI), Stage Category, and E2 concentration (R2 > 0.6, P< 0.05, Table 1). 
+
+4.  Analyses of delta smelt for pathogens/diseases
+Growth of bacterial flora was observed on Blood Agar and TYES plates inoculated with delta smelt kidney + spleen homogenates.  The number of colonies ranged from low to moderate, with high colony numbers in a few samples.  Pure bacteria were isolated from few fish samples, but generally mixed in most of the fish examined.  Bacterial isolates were mostly Gram-negative that were identified following analysis of basic phenotypic characteristics and confirmed by sequencing of the 16S rDNA gene region. The bacterial species that were isolated from the different fish species were identified as Flavobacterium, Aeromonas, Pseudomonas, Sphingopyxis, Zooglea, Bacillus, Brevundimonas, Microbacterium, and Methylibium.  Most of these species are found in the aquatic environment however, certain organisms such as Methylibium has been isolated from sites contaminated with methyl tertiary butyl ether (MTBE) and other aromatic hydrocarbons (Nakatsu et al. 2006).  Furthermore, Brevundimonas and Microbacterium are common in oil polluted soils (Ruggeri et al. 2009).  Certain species such as Flavobacterium are serious pathogens of fish (e.g. see review of Barnes and Brown 2011).  No replicating viral agents have been isolated from any of the delta smelt examined in 2010 and 2011 by cell culture following incubation at 15°C for a minimum of 21 days using the different cell lines and a subculture of 14 days. 
+Among the delta smelt examined in 2010 for Mycobacterium qPCR(N=60), 85% were carriers of latent Mycobacterium (DNA) while 81% Mycobacterium carriers were observed in the 2011 cohort (N=11) (Table 2).  The few number of fish examined in 2011 played a role on the proportion of Mycobacterium carriers.  The incidence of other pathogens was higher in 2011 (N=73, 50.68%) compared to the 2010 (N=158, 29.74%) cohorts (Table 3).  The majority of delta smelt (70%) in the 2010 cohorts were free from bacterial organisms compared to 49% in the 2011 cohorts that did not show any bacterial growth (Table 3 ).   Pathogen scores were low to moderate among the other fish examined in the 2010 and 2011 cohorts (Table 3).   
+	Pathogen scores were significantly lower in 2010 (0.424) compared to 2011 (0.767) (P=0.005, Figure 15) while gene copies of Mycobacterium DNA did not differ in the 2010 vs. 2011 cohorts (524 and 621 gene copies, respectively) (P=0.663, Figure 16), due in part to the sample size examined (2010: N=60, 2011: N=11).
+
+5.  Histopathology
+Liver, gill, and ovary were histopathologically evaluated for sublethal and chronic health effects.  Histopathological analysis indicated relatively normal healthy ovary in all females of 2010 and 2011.  Liver and gill analyses indicated chloride cell hyperplasia (Figure 7) and lipidosis (Figure 8) as the most significant lesions observed in delta smelt between 2010 and 2011.  Glycogen depletion (GD) in the liver (Figure 8) did not differ among fish cohorts examined in 2010 and 2011 (P=0.140, Figure 17).  Liver lipidosis (LIP) however was markedly more pronounced in 2010 vs. 2011 (P=0.007, Figure 18); 20% of 2010 females (N=20) and 6% (N=34)of 2011 females had moderate to severe lipidosis.  The mean number of delta smelt showing gill chloride cell hyperplasia (CCH) was slightly higher in 2010 vs. 2011 (P=0.026, Figure 19). 35% (N=20) of 2010 females and 12% (N=19) of 2011 females had moderate to severe chloride cell hyperplasia.
+Summary of Results
+
+Water quality across collection sites of delta smelt cohorts varied significantly between 2010 (Sacramento River) and 2011 (SKT sites 705, 706, and 707)
+Turbidity: 2010=29.616 NTU vs. 2011=10.902 NTU, P<0.0001
+Water temperature: 2010=10.075°C vs. 2011=9.127°C, P<0.0001
+Salinity: 2010=0.069 psu vs. 2011=0.340 psu, P<0.0001
+
+Fish condition indices indicated a higher trend in 2010 compared to 2011 delta smelt cohorts that were examined 
+Condition factor (CF): 2010=0.805 vs. 2011=0.738, P<0.0001
+Hepatosomatic (HSI):  2010=1.027 vs. 2011=0.732, P=0.021 
+Gonadosomatic (GSI): 2010=1.941 vs. 2011=1.595, P=0.014 
+
+Analyzing concentrations of E2 (estradiol), the hormone responsible for sex differentiation and maturation in female fish, provides a new method for predicting gonad maturity in delta smelt (using liver tissue) based on the positive correlation between E2 and oocyte development. 
+
+ In addition to the E2 assay, we also established another method for predicting the reproductive potential of delta smelt based on distinct histological criteria for oocyte development from Stage I – V including a Post Spawner Stage.
+
+Analysis of gonad maturity stages showed that the most frequent stage in the 2010 cohort was Stage IV (early to late) (64%) while Stage III (early to late) was most frequent (56%) in the 2011 cohort.  
+
+The proportion of Delta smelt harboring bacterial organisms were fewer in 2010 (29.74%) compared to 2011 (50.68%) cohorts.  The severity of pathogen occurrence (scored 0–4) was also less pronounced in 2010 (0.424) vs. 2011 (0.767), P=0.005.  Viral agents were not isolated from delta smelt collected from the 2010 and 2011 cohorts.  
+
+The proportion of Delta smelt harboring Mycobacterium DNA was relatively high in both years: 2010=85.0% vs. 2011=81.8%.  However, the abundance of Mycobacterium DNA (gene copies by qPCR) is relatively fewer in 2010 (524.73 gene copies) than 2011 (621.91 gene copies), P=0.664.  Trends for Mycobacterium DNA carrier incidence will be improved upon examination of a larger sample size for 2011.  The current qPCR results were based on 11 samples for 2011 and 60 samples for 2010.
+
+The severity of histopathological lesions (scored 0–3) varied among delta smelt cohorts examined in 2010 and 2011
+Liver glycogen depletion (GD): 2010=1.85 vs. 2011=2.32, P=0.140
+Liver lipidosis (LIP): 2010=1.00 vs. 2011=0.32, P=0.007
+Chloride cell hyperplasia (CCH): 2010=1.37 vs. 2011=1.09, P=0.026
+
+
+
+
+Discussion and Conclusion
+
+General health analyses as determined by condition factor (CF), hepatosomatic (HSI), and gonadosomatic (GSI) indices indicate that delta smelt samples examined among the 2010 and 2011 cohorts are generally in good condition.  Female delta smelt that were examined from the 2010 and 2011 cohorts showed oocyte maturity at Stage IV and III, respectively as the most frequently observed oocyte maturity stage.  As gonad maturity is strongly correlated with the production of E2 (the hormone responsible for sex differentiation and maturation in female fish), the E2 assay that we developed will provide a convenient and reliable method for predicting gonad maturity particularly for evaluating the reproductive potential of wild delta smelt cohorts. 
+Comparative health analyses based on time of collection at “first flush” indicate that the condition indices CF, HSI, and GSI among female delta smelt in 2010 are significantly higher with mature oocyte stages than 2011 female delta smelt.  However, histopathological analysis revealed higher incidence of liver lipidosis and gill chloride cell hyperplasia in 2010 female delta smelt. These results suggest that the 2010 female delta smelt that were randomly chosen and examined have potentially encountered harsh conditions in the summer months due to the dry year. Furthermore, it should be noted that these 2010 migrating female delta smelt are likely the healthiest fish with the ability to initiate the first phase migration up to the Sacramento Rivers.  In contrast, the 2011 wet year may have provided better rearing conditions for the 2011 female delta smelt in the summer months.  
+The majority of the 2010 and 2011 female delta smelt are Mycobacterium carriers while others harbored bacterial organisms commonly found in contaminant polluted environments.  Our current knowledge on this infectious pathogen indicates that a latent (non-lethal) state (Mycobacterium DNA carriers) exists in wild populations of delta smelt collected from the San Francisco Bay Delta in 2000 (Baxa-Antonio et al. 2000) and more recently from different salinity regions of the 2011 and 2012 Fall X2 fish health study (Baxa et al. 2012).  Interestingly, wild cohorts and cultured populations subjected to intensive culture conditions and increased water temperatures (>15°C) developed infections that progressed from latent to clinical (Aquatic Health Program, Baxa et al. unpublished data).  Sub-lethal impacts in Mycobacterium carriers that render important ecological consequences such as impaired growth and reproduction have not been investigated in delta smelt.  Viral agents were not isolated from delta smelt collected from the 2010 and 2011 cohorts.  Although this implies the absence of virus infections among the fish tested, it is possible that samples that were caught and examined represented healthier life stages precluding the analysis of unfit fish that were not collected or may have already died in the wild.  The presence of abnormalities (e. g. histopathological changes and carriers of latent Mycobacterium and bacterial isolates consistent with environmental pollution) among the fish examined raise concerns regarding the current health and reproductive status of delta smelt.  These initial results suggest that turbidity may be playing a role on the general fitness of delta smelt in the Sacramento San Joaquin Delta. 
+In conclusion, results strongly suggest that the 2010 and 2011 delta smelt that we examined will spawn once they migrate to adequate spawning habitats.  However, it should be noted that reproductive capacity in fish requires calorie reserves for egg development and maturation or production of good eggs. Fish with inadequate energy reserve or those that will invest all reserve energy into reproduction may starve or may less likely to produce second egg clutches or may not survive to the second year.  The higher incidence of liver lipidosis and gill chloride cell hyperplasia in 2010 females suggest that they may not be able to spawn multiple batches of eggs or may have low egg quality unless food is adequate during their migration. 
+
+Recommendations
+
+This study compared the health status based on time of capture for matched delta smelt cohorts for 2010 and 2011.  Multiple year comparisons of delta smelt cohort across habitats with similar turbidity are needed to expand our current knowledge on the role of turbidity in relationship to key water quality (salinity, water temperature) on the health and reproductive status of delta smelt.  Other potential causative factors need to be determined using relevant biomarkers:  
+RNA/DNA and Triglyceride (TAG) to assess nutritional status, or energy for growth and reproduction
+Enzymatic biomarkers to evaluate potential exposures to contaminants
+
+
+
+
+
+
+Figure.  Different stages of oocyte development in delta smelt based on histological criteria for classification of oocyte developmental stages I – V; Post Spawner Stage shows post-ovulatory follicle (POF).
+
+B
+
+
+Stage I: 	Primordial oocyte (PMO), characterized by small oocyte with centrally located nucleus, containing a single nucleolus
+Stage II: 	Primary growth oocyte (PGO), with a larger nucleus and multiple nucleoli located at the periphery of the nucleus
+Stage III: 	Primordial cortical alveoli oocyte (PCA), characterized by enlarged oocytes with cortical alveoli present in the cytoplasm
+Early	Small cortical alveoli lining the periphery of the cytoplasm
+Mid	Larger cortical alveoli become present in both the periphery of the cytoplasm and nucleus
+Late	Cortical alveoli increase in size and number throughout the cytoplasm 
+Stage IV: 	Vitellogenic oocyte (VTL), characterized by a dramatic increase in size with cytoplasm containing eosinophilic yolk bodies, formation of a two-layered zona radiata (vitelline envelope)
+Early	Small eosinophilic yolk bodies can be seen forming in the periphery of the cytoplasm
+Mid	Yolk bodies can be seen migrating to the center of oocyte
+Late	Enlarged yolk bodies are present throughout the cytoplasm, interspersed with cortical alveoli germinal vesicle migrates to cell wall
+Stage V: 	Post-vitellogenic oocytes (PVTL), characterized by the fusion of yolk bodies into a homogenous yolk mass
+Post Spawn: 	Post-ovulatory follicles (POF), characterized by folded follicular layers with the presence of secondary PMOs and PGOs (Panel B)
+
+Figure.  Comparison in the proportion (%) of Oocyte Stages among female delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2010 and 2012 
+
+
+
+
+
+
+
+
+
+Figure.  Comparison of Oocyte size (mm) among female delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2010 vs. 2012 
+
+
+
+
+
+
+Figure.  Relationship between size and developmental stages of oocyte among female delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta; data represent the average of size and stages of among fish examined in 2010 and 2012
+
+
+ 
+
+
+
+ 
+Figure.  Histopathology of delta smelt gill filament:  A) Normal gill secondary lamella (arrowheads) and the presence of chloride cells at the base of the primary gill lamellae in a 2011 female delta smelt. B) Mild congestion in secondary lamella (arrowheads) and moderate to severe chloride cell hyperplasia at the base of primary lamellae (arrows) in a 2010 female delta smelt.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure.  Histopathology of delta smelt liver: A) Normal glycogen-rich liver in a 2011 female delta smelt. Arrows point to glycogen in the cytoplasm of hepatocytes. B) Glocogen-depleted hepatocytes and lipidosis in the liver of a 2010 female delta smelt. Arrows point to various sizes of fatty droplets in the cytoplasm of the hepatocytes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure .  Comparison of turbidity, conductivity, and water temperature in the Sacramento San Joaquin delta where delta smelt were collected for the Special Turbidity Study (STS) in 2010 and 2012 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 12.  Comparison of condition indices among delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2010 and 2012 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 15.  Comparison of Pathogen Scores and Mycobacterium gene copies among delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2010 and 2012 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2.  Percentage of delta smelt in 2010 and 2012 cohort showing Mycobacterium DNA and other bacterial species
+
+
+
+
+
+
+*Number of fish positive for Mycobacterium DNA or other pathogens/Number of fish examined
+
+Table 3.  Percentage of delta smelt in 2010 and 2012 cohorts showing variable severity in pathogen scores
+
+
+Pathogen scores from 0 – 4 are based on the number and identity of colonies present on Blood Agar and Tryptone Yeast Extract Salts (TYES)
+0 = absence of bacterial growth
+1 = minimal number of bacterial colonies (N=1−10)
+2 = moderate number of colonies (N=11−20)
+3 = high number of colonies (>20–200)
+4 = too numerous to be counted  
+Note:  Fish collected may represent only healthy individuals; unfit delta smelt may have been dead or eaten by predators precluding collection and analysis on the role of pathogens/disease on fish health.
+
+
+
+
+
+
+Figure 16.  Comparison of Pre and Post Flush for NaK ATPase activity among delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2012. 
+
+
+
+
+
+Figure 17.  Comparison of Pre and Post Flush for AChE activity among delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2012. 
+
+
+
+Figure 18.  Comparison of Pre and Post Flush for EROD activity among delta smelt collected for the Special Turbidity Study (STS) in the Sacramento San Joaquin delta in 2012. 
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+Antonio (Baxa) DV, C Swanson, J Cech, S Doroshov, RP Hedrick.  2000.  Prevalence of Mycobacterium spp. in delta smelt Hypomesus transpacificus in Sacramento-San Joaquin estuary in California. California Fish and Game, 86: 233-43.
+
+Babin PJ, Carnevali O, Lubzens E, Schneider WJ. 2007. Molecular aspects of oocyte vitellogenesis in fish. In: Babin, P.J., Cerdà, J., Lubzens, E. (Eds.), The Fish Oocyte: From Basic Studies to Biotechnological Applications. Springer, Dordrecht, 2007 pp. 39–76.
+
+Barnes ME, Brown ML. 2011. A review of Flavobacterium psychrophilum
+biology, clinical signs, and bacterial cold water disease prevention and treatment. The 
+Open Fish Science Journal, 4:40–48
+
+Baxa DV, Javidmehr A, Teh SJ. 2012.  FLaSH: Harboring Mycobacterium and other pathogens in Delta smelt: Comparison between populations collected in 2010 and 2011 and relationship to environmental factors in the San Francisco Bay Delta, 2012 Bay Delta Science Conference, Sacramento, CA, Oct 16 – 18
+http://scienceconf.deltacouncil.ca.gov/sites/default/files/documents/abstracts/poster/A3LowSalinityHabitatBDSC2012.pdf.
+
+Bennett WA. 2005. Critical Assessment of the Delta Smelt Population in the San Francisco Estuary. San Francisco Estuary and Watershed Science 3.2:1-75.
+
+Carlton JT, J K Thompson, LE Schemel, FH Nichols. 1990. Remarkable invasion of San Francisco Bay (California, USA) by the Asian clam Potamocorbula amurensis. I. Introduction and dispersal. Marine Ecology Progress Series 66:81-94. 
+Feyrer F, ML Nobriga, TR Sommer. 2007. Multidecadal trends in three declining fish species: habitat patterns and mechanisms in the San Francisco Estuary, California, USA. Canadian Journal of Fisheries and Aquatic Science 64:723–734. 
+Feyrer F, B Herbold, SA Matern, PB Moyle. 2003. Dietary shifts in a stressed fish assemblage: Consequences of a bivalve invasion in the San Francisco Estuary. Environmental Biology of Fishes 67:277–288.
+
+Grimaldo LF, Moyle PB, Sommer T, Van Ark N, Jones G, Holland G, Smith P, Herbold B. 2009. The effects of large-scale water diversions in a freshwater tidal estuary: can fish losses be managed? North American Journal of Fisheries Management 
+29:1253-1270.
+
+Jassby AD, JE Cloern, BE Cole. 2002. Annual primary production: patterns and mechanisms of change in a nutrient-rich tidal ecosystem. Limnology and Oceanography 47:698-712.
+
+Lowry OH, Farr AL, Randall RJ, Rosebrough, NJ. 1951. Protein measurement with the Folin phenol reagent. Journal of Biological Chemistry 193:265-275.
+
+Lubzens E, Young G, Bobe J, Cerdà J. 2010.  Oogenesis in teleosts: how eggs are formed. Gen Comp Endocrinol. 165:367-89.
+
+McKee LJ, NK Ganjub,  DH Schoellhamer. 2006. Estimates of suspended sediment entering San Francisco Bay from the Sacramento and San Joaquin Delta, San Francisco Bay, California. Journal of Hydrology 323:335-352.
+
+Miura C, Higashino T, Miura T. 2007. A progestin and an estrogen regulate early stages of oogenesis in fish.  Biology of Reproduction 77:822-828.
+
+Moyle PB, Herbold B, Stevens DE, Miller LW. 1992. Life history and status of delta smelt in the Sacramento-San Joaquin estuary, California. Transactions of the American
+Fisheries Society 121:67-77.
+
+Moyle PB. 2002. Delta smelt, Hypomesus transpacificus McAllister. Pages 227-232 in P. B. Moyle, editor. Inland fishes of California. University of California Press, Berkeley, USA. 
+
+Nagahama Y. 1994. Endocrine regulation of gametogenesis in fish. Int J Dev Biol. 38:217–229.
+
+Nakatsu CH, KR Hristova, S Hanada, XY Meng, JR Hanson, KM Scow, Y Kamagata. 2006. Methylibium petrolelphilum gen. nov., sp nov., a novel methyl tert-butyl ether-degrading methylotroph of the Betaproteobacteria. Int. J. Sys. Evol. Microbiol. 56:983-989.
+
+Nobriga ML, F Feyrer, RD Baxter, M Chotkowski. 2005. Fish community ecology in an altered river delta: spatial patterns in species composition, life history strategies, and biomass. Estuaries 28:776-785.
+
+Ruggeri C, Franzetti A, Bestetti G, Caredda P, Colla P, Pintus M, Sergi S, Tamburini E.  2009.  Isolation and characterisation of surface active compound producing bacteria from hydrocarbon-contaminated environments. Int. Biodeterior. Biodegrad., 63: 936–942.
