@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot App</title>
+</head>
+<body>
+  <h1>Chatbot App</h1>
+    <p>Generate answers for your questions! Enter your prompt below and hit "Answer"  (takes ~7 mins per response).</p>
+    <form action="\submit-prompt" method="post" id="submission-form">
+        <ul>
+            <li>
+              <label for="prompt">Prompt:</label>
+              <input type="text" id="prompt" name="prompt-input" />
+            </li>
+            <li class="button">
+                <button type="submit">Create</button>
+            </li>
+          </ul>
+    </form>
+    <p>
+      Answer: {{ response}}
+    </p>
+</body>
+</html>
